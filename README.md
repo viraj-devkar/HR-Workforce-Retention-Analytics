@@ -1,4 +1,4 @@
-#  HR Analytics Project (Employee Attrition & Workforce Insights)
+#  HR Workforce & Retention Analytics
 
 ##  Project Roadmap
 
