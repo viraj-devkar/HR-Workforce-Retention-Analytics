@@ -145,11 +145,3 @@ Outputs:
 - **Future BI** → Power BI or Tableau for executives  
 
 ---
-
-##  How to Run the Python Analysis
-
-```bash
-# 1) Clone this repository:
-   ```bash
-   git clone https://github.com/Egbe34/HR-analytics.git
-   cd HR-analytics
