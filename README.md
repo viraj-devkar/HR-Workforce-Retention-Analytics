@@ -119,6 +119,7 @@ From the analysis of 1,470 employees:
 
 A **logistic regression model** was trained to predict attrition:
 
+
 - **Accuracy:** ~78% (varies by split)  
 - **Key Predictors of Attrition:**  
   - Overtime (employees with overtime more likely to leave)  
